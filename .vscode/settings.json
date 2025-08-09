@@ -5,5 +5,5 @@
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
-  "conventionalCommits.scopes": ["aws", "workspace"]
+  "conventionalCommits.scopes": ["aws", "workspace", "memo"]
 }
